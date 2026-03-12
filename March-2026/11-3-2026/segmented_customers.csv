@@ -1,0 +1,201 @@
+CustomerID,Gender,Age,Annual_Income_k$,Spending_Score,Cluster,Segment
+96,Male,32,43,57,3,Average Customers
+16,Female,20,15,61,0,Young Budget Shoppers
+31,Male,22,24,77,0,Young Budget Shoppers
+159,Male,46,82,64,2,Premium Loyal Shoppers
+129,Female,41,68,77,2,Premium Loyal Shoppers
+116,Female,34,45,56,3,Average Customers
+70,Female,53,84,15,1,Wealthy Conservatives
+171,Female,23,26,14,4,Low-Income Low-Spenders
+175,Male,25,22,13,4,Low-Income Low-Spenders
+46,Female,34,76,20,1,Wealthy Conservatives
+67,Female,35,59,21,1,Wealthy Conservatives
+183,Male,31,25,6,4,Low-Income Low-Spenders
+166,Male,21,17,10,4,Low-Income Low-Spenders
+79,Female,29,61,32,3,Average Customers
+187,Female,33,22,21,4,Low-Income Low-Spenders
+178,Female,20,17,23,4,Low-Income Low-Spenders
+57,Male,36,79,18,1,Wealthy Conservatives
+153,Female,45,78,80,2,Premium Loyal Shoppers
+83,Male,23,65,48,3,Average Customers
+69,Female,50,58,16,1,Wealthy Conservatives
+125,Female,58,85,100,2,Premium Loyal Shoppers
+17,Male,25,29,66,0,Young Budget Shoppers
+149,Female,42,83,71,2,Premium Loyal Shoppers
+94,Female,33,51,64,3,Average Customers
+66,Male,70,69,18,1,Wealthy Conservatives
+61,Female,46,78,12,1,Wealthy Conservatives
+85,Female,36,50,52,3,Average Customers
+68,Female,38,65,16,1,Wealthy Conservatives
+126,Male,62,88,93,2,Premium Loyal Shoppers
+133,Female,40,90,83,2,Premium Loyal Shoppers
+10,Male,29,30,78,0,Young Budget Shoppers
+19,Female,19,22,86,0,Young Budget Shoppers
+56,Female,44,102,19,1,Wealthy Conservatives
+76,Female,58,63,21,1,Wealthy Conservatives
+151,Female,50,86,76,2,Premium Loyal Shoppers
+105,Male,38,67,53,3,Average Customers
+136,Female,46,80,90,2,Premium Loyal Shoppers
+138,Female,41,75,68,2,Premium Loyal Shoppers
+165,Male,27,18,22,4,Low-Income Low-Spenders
+77,Female,48,82,12,1,Wealthy Conservatives
+80,Female,55,75,26,1,Wealthy Conservatives
+198,Male,30,20,8,4,Low-Income Low-Spenders
+39,Male,18,29,92,0,Young Budget Shoppers
+25,Female,18,22,84,0,Young Budget Shoppers
+123,Female,40,89,90,2,Premium Loyal Shoppers
+196,Male,24,14,22,4,Low-Income Low-Spenders
+30,Female,18,34,73,0,Young Budget Shoppers
+20,Male,18,27,58,0,Young Budget Shoppers
+144,Female,56,75,63,2,Premium Loyal Shoppers
+87,Male,31,52,64,3,Average Customers
+115,Female,39,66,62,3,Average Customers
+174,Female,18,21,7,4,Low-Income Low-Spenders
+6,Female,21,26,67,0,Young Budget Shoppers
+127,Female,60,92,75,2,Premium Loyal Shoppers
+118,Male,43,57,67,3,Average Customers
+74,Female,51,59,17,1,Wealthy Conservatives
+141,Female,48,66,64,2,Premium Loyal Shoppers
+99,Female,38,65,50,3,Average Customers
+173,Female,26,18,26,4,Low-Income Low-Spenders
+97,Male,38,60,54,3,Average Customers
+170,Female,35,24,6,4,Low-Income Low-Spenders
+98,Male,29,57,71,3,Average Customers
+32,Female,18,21,73,0,Young Budget Shoppers
+13,Female,23,25,73,0,Young Budget Shoppers
+36,Female,19,21,76,0,Young Budget Shoppers
+120,Male,34,57,74,3,Average Customers
+43,Male,42,80,28,1,Wealthy Conservatives
+190,Male,24,17,16,4,Low-Income Low-Spenders
+91,Male,30,64,70,3,Average Customers
+137,Female,49,76,74,2,Premium Loyal Shoppers
+52,Female,52,81,44,1,Wealthy Conservatives
+128,Female,47,85,82,2,Premium Loyal Shoppers
+163,Male,21,23,28,4,Low-Income Low-Spenders
+42,Male,57,79,27,1,Wealthy Conservatives
+119,Female,20,47,53,3,Average Customers
+114,Male,31,49,50,3,Average Customers
+27,Male,26,25,71,0,Young Budget Shoppers
+140,Male,45,86,80,2,Premium Loyal Shoppers
+101,Male,26,43,47,3,Average Customers
+112,Male,26,48,46,3,Average Customers
+3,Male,21,30,69,0,Young Budget Shoppers
+78,Female,44,69,28,1,Wealthy Conservatives
+47,Male,49,87,21,1,Wealthy Conservatives
+188,Male,27,16,30,4,Low-Income Low-Spenders
+192,Female,24,23,14,4,Low-Income Low-Spenders
+86,Male,32,46,67,3,Average Customers
+162,Female,23,12,21,4,Low-Income Low-Spenders
+37,Female,23,20,89,0,Young Budget Shoppers
+191,Male,37,22,15,4,Low-Income Low-Spenders
+62,Male,46,63,31,1,Wealthy Conservatives
+23,Male,18,30,84,0,Young Budget Shoppers
+142,Male,59,82,81,2,Premium Loyal Shoppers
+102,Female,33,66,46,3,Average Customers
+34,Male,32,24,72,0,Young Budget Shoppers
+12,Male,25,26,61,0,Young Budget Shoppers
+195,Female,18,18,10,4,Low-Income Low-Spenders
+160,Male,55,91,80,2,Premium Loyal Shoppers
+7,Male,32,26,76,0,Young Budget Shoppers
+28,Male,23,29,61,0,Young Budget Shoppers
+121,Female,50,85,75,2,Premium Loyal Shoppers
+5,Female,18,22,64,0,Young Budget Shoppers
+33,Female,18,24,75,0,Young Budget Shoppers
+143,Male,55,77,80,2,Premium Loyal Shoppers
+146,Male,42,79,68,2,Premium Loyal Shoppers
+110,Female,36,53,48,3,Average Customers
+145,Female,44,73,73,2,Premium Loyal Shoppers
+11,Female,18,26,62,0,Young Budget Shoppers
+63,Male,53,75,26,1,Wealthy Conservatives
+113,Female,37,70,64,3,Average Customers
+147,Male,57,90,71,2,Premium Loyal Shoppers
+167,Male,27,27,19,4,Low-Income Low-Spenders
+1,Male,22,24,81,0,Young Budget Shoppers
+199,Male,21,19,20,4,Low-Income Low-Spenders
+154,Male,44,86,89,2,Premium Loyal Shoppers
+71,Male,49,62,39,1,Wealthy Conservatives
+124,Male,60,57,77,2,Premium Loyal Shoppers
+65,Male,49,80,24,1,Wealthy Conservatives
+45,Female,47,82,10,1,Wealthy Conservatives
+164,Male,28,31,15,4,Low-Income Low-Spenders
+29,Male,21,26,75,0,Young Budget Shoppers
+41,Female,36,79,12,1,Wealthy Conservatives
+109,Male,47,48,63,3,Average Customers
+156,Male,46,89,88,2,Premium Loyal Shoppers
+157,Female,38,89,73,2,Premium Loyal Shoppers
+26,Female,21,22,61,0,Young Budget Shoppers
+24,Male,20,29,97,0,Young Budget Shoppers
+185,Female,28,19,22,4,Low-Income Low-Spenders
+148,Female,49,88,96,2,Premium Loyal Shoppers
+82,Female,31,57,64,3,Average Customers
+40,Female,24,29,81,0,Young Budget Shoppers
+169,Female,26,17,22,4,Low-Income Low-Spenders
+48,Male,51,80,18,1,Wealthy Conservatives
+95,Male,46,63,37,1,Wealthy Conservatives
+155,Male,51,87,72,2,Premium Loyal Shoppers
+44,Male,49,57,20,1,Wealthy Conservatives
+139,Male,53,94,88,2,Premium Loyal Shoppers
+4,Male,18,32,90,0,Young Budget Shoppers
+106,Male,37,55,46,3,Average Customers
+54,Male,47,73,26,1,Wealthy Conservatives
+134,Female,43,78,96,2,Premium Loyal Shoppers
+181,Male,23,15,16,4,Low-Income Low-Spenders
+179,Female,32,22,17,4,Low-Income Low-Spenders
+186,Female,19,18,16,4,Low-Income Low-Spenders
+50,Female,50,74,16,1,Wealthy Conservatives
+81,Male,29,58,56,3,Average Customers
+35,Female,18,22,78,0,Young Budget Shoppers
+8,Male,18,23,74,0,Young Budget Shoppers
+111,Female,26,61,53,3,Average Customers
+92,Male,32,49,41,3,Average Customers
+84,Male,47,58,66,2,Premium Loyal Shoppers
+177,Male,25,21,16,4,Low-Income Low-Spenders
+182,Male,26,27,16,4,Low-Income Low-Spenders
+90,Male,38,50,58,3,Average Customers
+9,Male,18,23,68,0,Young Budget Shoppers
+14,Female,18,26,91,0,Young Budget Shoppers
+60,Female,42,51,17,1,Wealthy Conservatives
+172,Male,18,10,32,4,Low-Income Low-Spenders
+132,Female,55,72,92,2,Premium Loyal Shoppers
+18,Male,18,24,86,0,Young Budget Shoppers
+73,Male,38,73,24,1,Wealthy Conservatives
+176,Female,22,19,28,4,Low-Income Low-Spenders
+135,Male,64,82,75,2,Premium Loyal Shoppers
+168,Male,25,23,25,4,Low-Income Low-Spenders
+184,Male,26,14,14,4,Low-Income Low-Spenders
+64,Female,53,79,34,1,Wealthy Conservatives
+55,Male,66,75,8,1,Wealthy Conservatives
+108,Male,35,51,49,3,Average Customers
+51,Male,51,87,23,1,Wealthy Conservatives
+197,Female,23,23,34,4,Low-Income Low-Spenders
+59,Female,41,82,28,1,Wealthy Conservatives
+49,Male,59,79,10,1,Wealthy Conservatives
+89,Male,30,50,62,3,Average Customers
+22,Female,27,21,78,0,Young Budget Shoppers
+58,Female,50,73,22,1,Wealthy Conservatives
+161,Male,21,20,13,4,Low-Income Low-Spenders
+193,Female,19,11,26,4,Low-Income Low-Spenders
+130,Female,55,91,78,2,Premium Loyal Shoppers
+38,Female,18,31,71,0,Young Budget Shoppers
+158,Female,53,77,86,2,Premium Loyal Shoppers
+194,Male,25,12,1,4,Low-Income Low-Spenders
+2,Male,27,20,73,0,Young Budget Shoppers
+53,Female,37,66,19,1,Wealthy Conservatives
+150,Male,40,73,85,2,Premium Loyal Shoppers
+131,Female,56,87,79,2,Premium Loyal Shoppers
+152,Female,48,83,57,2,Premium Loyal Shoppers
+104,Male,34,60,60,3,Average Customers
+100,Female,36,42,55,3,Average Customers
+117,Female,42,51,37,3,Average Customers
+88,Male,43,54,49,3,Average Customers
+75,Female,52,87,23,1,Wealthy Conservatives
+122,Male,54,79,72,2,Premium Loyal Shoppers
+200,Male,25,15,7,4,Low-Income Low-Spenders
+21,Male,21,21,78,0,Young Budget Shoppers
+189,Male,32,17,12,4,Low-Income Low-Spenders
+72,Male,59,73,16,1,Wealthy Conservatives
+107,Female,35,62,59,3,Average Customers
+15,Male,18,20,63,0,Young Budget Shoppers
+93,Male,42,55,61,3,Average Customers
+180,Male,29,10,25,4,Low-Income Low-Spenders
+103,Female,33,54,48,3,Average Customers
