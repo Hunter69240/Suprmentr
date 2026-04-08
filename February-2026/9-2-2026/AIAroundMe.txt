@@ -1,0 +1,39 @@
+1. Google Search
+    i) Uses ranking algorithms trained on billions of queries.
+    ii) ML models (like learning-to-rank) predict which pages are most relevant based on past user behavior and content signals.
+
+2. Gmail Spam Filter
+    i)Supervised ML models classify emails as spam or not spam.
+    ii)Trained on labeled datasets using features like keywords, sender reputation, and email patterns.
+
+3️.  YouTube Recommendations
+    i)Uses deep learning recommendation systems.
+    ii)Collaborative filtering + neural networks predict what you’ll watch based on your history and similar users.
+
+4️.  Instagram Feed Ranking
+    i)ML models rank posts based on engagement probability.
+    ii)Predicts likelihood of you liking, commenting, or sharing using behavioral data.
+
+5️.  Google Maps Traffic Prediction
+    i)Uses time-series ML models.
+    ii)Learns from historical traffic data + live GPS signals to predict congestion patterns.
+
+6️.  Netflix Recommendations
+    i)Uses collaborative filtering and deep learning.
+    ii)Models predict ratings you would give based on viewing history and user similarity.
+
+7️.  Voice Assistants (e.g., Alexa, Siri)
+    i)Uses speech recognition models (deep neural networks).
+    ii)Converts speech → text using acoustic models trained on large voice datasets.
+
+8️.  Smartphone Face Unlock
+    i)Uses computer vision + deep learning (CNNs).
+    ii)Extracts facial features and compares embeddings to stored identity vectors.
+
+9️.  Swiggy / Zomato Delivery Time Prediction
+    i)Regression models predict ETA.
+    ii)Uses features like traffic, distance, restaurant prep time, and rider availability.
+
+10.  UPI / Banking Fraud Detection
+    i)Uses anomaly detection and classification models.
+    ii)Identifies unusual transaction patterns compared to your historical behavior.

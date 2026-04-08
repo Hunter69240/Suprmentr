@@ -1,0 +1,2 @@
+python developer with 3 years of experience in django and flask ml and nlp
+worked on restapi and data analysis
